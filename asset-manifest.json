@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Who_Am_I/static/css/main.83752c91.chunk.css",
-    "main.js": "/Who_Am_I/static/js/main.4a8901cd.chunk.js",
-    "main.js.map": "/Who_Am_I/static/js/main.4a8901cd.chunk.js.map",
-    "runtime-main.js": "/Who_Am_I/static/js/runtime-main.b0842809.js",
-    "runtime-main.js.map": "/Who_Am_I/static/js/runtime-main.b0842809.js.map",
+    "main.js": "/Who_Am_I/static/js/main.dcca97d3.chunk.js",
+    "main.js.map": "/Who_Am_I/static/js/main.dcca97d3.chunk.js.map",
+    "runtime-main.js": "/Who_Am_I/static/js/runtime-main.ce997949.js",
+    "runtime-main.js.map": "/Who_Am_I/static/js/runtime-main.ce997949.js.map",
     "static/css/2.4e506238.chunk.css": "/Who_Am_I/static/css/2.4e506238.chunk.css",
-    "static/js/2.4e6229c4.chunk.js": "/Who_Am_I/static/js/2.4e6229c4.chunk.js",
-    "static/js/2.4e6229c4.chunk.js.map": "/Who_Am_I/static/js/2.4e6229c4.chunk.js.map",
-    "static/js/3.48040551.chunk.js": "/Who_Am_I/static/js/3.48040551.chunk.js",
-    "static/js/3.48040551.chunk.js.map": "/Who_Am_I/static/js/3.48040551.chunk.js.map",
+    "static/js/2.9d07637d.chunk.js": "/Who_Am_I/static/js/2.9d07637d.chunk.js",
+    "static/js/2.9d07637d.chunk.js.map": "/Who_Am_I/static/js/2.9d07637d.chunk.js.map",
+    "static/js/3.21934cf6.chunk.js": "/Who_Am_I/static/js/3.21934cf6.chunk.js",
+    "static/js/3.21934cf6.chunk.js.map": "/Who_Am_I/static/js/3.21934cf6.chunk.js.map",
     "index.html": "/Who_Am_I/index.html",
     "static/css/2.4e506238.chunk.css.map": "/Who_Am_I/static/css/2.4e506238.chunk.css.map",
     "static/css/main.83752c91.chunk.css.map": "/Who_Am_I/static/css/main.83752c91.chunk.css.map",
-    "static/js/2.4e6229c4.chunk.js.LICENSE.txt": "/Who_Am_I/static/js/2.4e6229c4.chunk.js.LICENSE.txt",
+    "static/js/2.9d07637d.chunk.js.LICENSE.txt": "/Who_Am_I/static/js/2.9d07637d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Who_Am_I/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/Yassine_Boufnichel.70dfe170.pdf": "/Who_Am_I/static/media/Yassine_Boufnichel.70dfe170.pdf",
     "static/media/aws.ef6fb669.svg": "/Who_Am_I/static/media/aws.ef6fb669.svg",
@@ -76,10 +76,10 @@
     "static/media/yellowTheme-girl.a7ec3ad5.svg": "/Who_Am_I/static/media/yellowTheme-girl.a7ec3ad5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0842809.js",
+    "static/js/runtime-main.ce997949.js",
     "static/css/2.4e506238.chunk.css",
-    "static/js/2.4e6229c4.chunk.js",
+    "static/js/2.9d07637d.chunk.js",
     "static/css/main.83752c91.chunk.css",
-    "static/js/main.4a8901cd.chunk.js"
+    "static/js/main.dcca97d3.chunk.js"
   ]
 }
