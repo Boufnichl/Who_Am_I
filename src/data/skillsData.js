@@ -2,9 +2,12 @@
     'Java',
     'Spring Boot',
     'Microservices',
+    'Kafka',
     'React',
     'DevOps',
     'Git',
     'Docker',
-    'AWS'
+    'AWS',
+    'Linux',
+    'Kubernetes'
 ]
