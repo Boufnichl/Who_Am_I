@@ -1,13 +1,11 @@
 import React, { useContext } from 'react';
-
+import { Button } from '@material-ui/core';
+import { NavHashLink as NavLink } from 'react-router-hash-link';
 import './About.css';
 import { ThemeContext } from '../../contexts/ThemeContext';
 import { aboutData } from '../../data/aboutData'
 
-
-
 function About() {
-
     const { theme } = useContext(ThemeContext);
     return (
         <div className="about" id="about" style={{backgroundColor: theme.secondary}}>
@@ -19,7 +17,8 @@ function About() {
             <div className="about-body">
                 <div className="about-description">
                     <h2 style={{color: theme.primary}}>{aboutData.title}</h2>
-                    <p style={{color:theme.tertiary80}}>{aboutData.description1}<br/><br/>{aboutData.description2}</p>
+                    <p style={{color:theme.tertiary80}}>{aboutData.description1}<br/><br/>{aboutData.description2}</p> <br/>
+                    <Button variant="contained" color="primary" href="https://www.fiverr.com/boufnichel" target="_blank">my Fiverr profile</Button>
                 </div>
                 <div className="about-img">
                     <img 
@@ -29,7 +28,6 @@ function About() {
                 </div>
             </div>
         </div>
-
     )
 }
 

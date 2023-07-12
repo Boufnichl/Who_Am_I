@@ -2,6 +2,7 @@ import React, { useContext, useState } from 'react';
 import { Snackbar, IconButton, SnackbarContent } from '@material-ui/core';
 import CloseIcon from '@material-ui/icons/Close';
 import axios from 'axios';
+import { FaDev } from 'react-icons/fa';
 import isEmail from 'validator/lib/isEmail';
 import { makeStyles } from '@material-ui/core/styles';
 import {
@@ -353,14 +354,14 @@ function Contacts() {
                                     <FaInstagram aria-label='Instagram' />
                                 </a>
                             )}*/}
-                            {socialsData.medium && (
+                            {socialsData.dev && (
                                 <a
-                                    href={socialsData.medium}
+                                    href={socialsData.dev}
                                     target='_blank'
                                     rel='noreferrer'
                                     className={classes.socialIcon}
                                 >
-                                    <FaMediumM aria-label='Medium' />
+                                    <FaDev aria-label='DEV Community' />
                                 </a>
                             )}
                             {/*
