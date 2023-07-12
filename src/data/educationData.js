@@ -2,7 +2,7 @@ export const educationData = [
     {
         id: 1,
         institution: 'Abdellah Chefchaouni High School',
-        course: 'EXPERIMENTAL SCIENCES BACCALAUREATE IN PHYSICS',
+        course: 'EXPERIMENTAL SCIENCES BACCALAUREATE',
         startYear: '2016',
         endYear: '2019'
     },
