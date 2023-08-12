@@ -9,7 +9,7 @@ import microservices from '../assets/svg/skills/microservices.jpg'
 import kafka from '../assets/svg/skills/kafka.svg'
 import linux from '../assets/svg/skills/linux.svg'
 import kubernetes from '../assets/svg/skills/kubernetes.svg'
-import distributedsys from '../assets/svg/skills/Distributed systems.png'
+import distributedsys from '../assets/svg/skills/distributed_systems.png'
 
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
