@@ -9,5 +9,6 @@
     'Docker',
     'AWS',
     'Linux',
-    'Kubernetes'
+    'Kubernetes',
+    'distributedsys'
 ]
